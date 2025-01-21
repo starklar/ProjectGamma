@@ -8,6 +8,8 @@ all possible tests for every functionality of the fan website. It is more
 of a proof of ability and understanding of the associated languages and
 frameworks of Cucumber.
 
+NOTE: Accurate as of January 20, 2025.
+
 ## Utilized Language and Frameworks:
 - Cucumber
 - Gherkin
